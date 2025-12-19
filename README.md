@@ -11,6 +11,7 @@ It’s designed to help business leaders and analysts understand what drives rev
 List the key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – for building visuals and designing the interactive dashboard.
 
 • 📂 Power Query – for cleaning, shaping, and transforming raw data.
