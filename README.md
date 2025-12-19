@@ -12,6 +12,9 @@ List the key technologies used to build the dashboard.
 
 Example: The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – for building visuals and designing the interactive dashboard.
+
 • 📂 Power Query – for cleaning, shaping, and transforming raw data.
+
 • 🧠 DAX (Data Analysis Expressions) – for creating calculated measures, KPIs, and dynamic visuals.
+
 • 📝 Data Modeling – for establishing relationships between datasets and enabling accurate cross-filtering.
